@@ -1,6 +1,6 @@
 # CLIMU-3
 
-<font size="5"><b>C</b>ontinually <b>L</b>earning <b>I</b>nertial <b>M</b>easurement <b>U</b>nit - Trimodal</font>
+### <b>C</b>ontinually <b>L</b>earning <b>I</b>nertial <b>M</b>easurement <b>U</b>nit - Trimodal
 
 In real-time systems such as self-driving vehicles, drones, industrial robots etc. Inertial Measurement Units (IMUs) play a critical role in data acquisition through accelerometer (accel), gyroscope (gyro), and magnetometer (mag), to give precise trajectory mapping. However, the data acquired must be digitally filtered to cancel out internal and externally induced noise. This filtering process needs to be accurate and fast, plus account for multi-modal efficiency. Hence, it is crucial to design a filter architecture that is accurate, fast, and works on partial modalities in real-life scenarios.
 
@@ -8,9 +8,8 @@ In real-time systems such as self-driving vehicles, drones, industrial robots et
 
 <p align="center">
   <img width="872" height="509" alt="image" src="https://github.com/user-attachments/assets/ba7c26a4-ad41-44e8-b20a-d4efb308c115" />
-  <br>
-  
-  <font size="5"><strong>CLIMU-3 Architecture</strong></font>
+  <br><br>
+  <strong>CLIMU-3 Architecture</strong>
 </p>
 
 
