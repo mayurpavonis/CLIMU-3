@@ -5,7 +5,8 @@ In real-time systems such as self-driving vehicles, drones, industrial robots et
 
 
 <p align="center">
-  <img width="872" height="509" alt="CLIMU-3 Architecture" src="https://github.com/user-attachments/assets/4f557eda-8c5c-43b4-bb83-58c0e16a37d2" />
+  ![block_diag_main](https://github.com/user-attachments/assets/03c0db88-c57d-4062-9c98-da8d26ece08f)
+
   <br>
   <strong>CLIMU-3 Architecture</strong>
 </p>
